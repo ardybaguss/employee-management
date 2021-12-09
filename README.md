@@ -5,3 +5,6 @@
 - Javascript
 - PHP
 - VSCODE
+- MySql
+
+Database = employees.sql
